@@ -1,0 +1,3 @@
+Código;Nombre;Edad;Enfermedad;Gravedad;Observación_Clínica;
+001;Joel;59;Ansiedad;Media;Necesita psicólogo o psiquiatra;
+002;Luis;21;Diabetes;Baja;Insulina dosis standard;

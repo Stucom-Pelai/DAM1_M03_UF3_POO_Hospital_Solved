@@ -1,0 +1,5 @@
+Reporte Pacientes por gravedad a fecha 2024-04-08T10:17:38.176419900;
+Gravedad Baja;Pacientes:1;
+Gravedad Media;Pacientes:1;
+Gravedad Alta;Pacientes:0;
+Total número pacientes:2;
